@@ -21,7 +21,7 @@ A desktop browser with WebGL2 support gives the best view. The first visit downl
 
 ## Run locally
 
-Use Node.js 24 and pnpm 12.4.1, as pinned in `package.json`.
+Use Node.js 24 and pnpm 12.4.1, matching the deployment workflow. The pnpm version is pinned in `package.json`.
 
 ```sh
 pnpm install --frozen-lockfile --strict-peer-dependencies=false
